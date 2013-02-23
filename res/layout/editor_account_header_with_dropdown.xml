@@ -39,6 +39,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/dialtacts_secondary_text_color"
             android:singleLine="true"
             android:ellipsize="end" />
 
@@ -48,7 +49,7 @@
              android:layout_height="wrap_content"
              android:paddingRight="8dip"
              android:textAppearance="?android:attr/textAppearanceSmall"
-             android:textColor="?android:attr/textColorTertiary"
+             android:textColor="@color/dialtacts_secondary_text_color"
              android:singleLine="true"
              android:ellipsize="end" />
 
